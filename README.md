@@ -1,6 +1,6 @@
 # PowerShell Data Analysis
 
-This repository is used for my public powershell scripts (data analysis focused).
+This repository was made for my public powershell scripts (data analysis focused).
 Feel free to fork, clone or wharever you want!
 
 * [Blog](https://raflisboa.github.io/site/)
